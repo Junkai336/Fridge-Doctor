@@ -1,5 +1,5 @@
 # Fridge-Doctor
 
 <p align="center">
-  <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/9900cf4e-3e46-40a6-9e9e-3710aabdda4f" />
+  <img width="400" height="400" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/85f39f17-cd0c-4e9c-aa75-0a75132a7e3b" />
 </p>
